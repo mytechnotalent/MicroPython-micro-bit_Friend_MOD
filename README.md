@@ -5,7 +5,7 @@ The Friend module is a micro:bit chatbot that you can run inside of the REPL.
 
 ## Step 1: Flash `friend.py` On micro:bit
 
-## Step 2: Run REPL
+## Step 2: Run REPL & Ask Questions!
 ```
 >>> from friend import *
 >>> talk('What is your name?')
